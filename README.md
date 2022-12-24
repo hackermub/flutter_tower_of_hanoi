@@ -1,4 +1,4 @@
-# tower_of_hanoy
+# tower_of_hanoi
 
 A new Flutter project.
 
